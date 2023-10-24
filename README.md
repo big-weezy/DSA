@@ -1,2 +1,2 @@
 # DSA
-This repo contains some of the famous Algorithms and Data Structures.
+This Repo contains some of the famous Algorithms and Data Structures.
